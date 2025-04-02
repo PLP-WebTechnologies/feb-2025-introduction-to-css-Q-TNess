@@ -11,10 +11,10 @@
 
 body {
     font-family:'Courier New', Courier, monospace;
-    background-image: url('images/pexels-gueylo-2148776361-30308896.jpg'); /* location of the image */ 
-    background-repeat: no-repeat; /* prevents image repetition */
-    background-size: cover; /* scales the iamge to cover the entire element- in our case the (body) */
-    background-position: center; /* centers the image*/
+    background-image: url('images/pexels-gueylo-2148776361-30308896.jpg'); 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-position: center; 
 }
 
 div {
